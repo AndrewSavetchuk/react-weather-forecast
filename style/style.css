@@ -1,0 +1,22 @@
+h1 {
+    margin: 40px 0 20px;
+}
+
+svg {
+    width: 250px;
+    height: 140px;
+}
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center;
+}
+
+.input-group {
+    margin: 20px 0;
+}
+
+.google-map {
+    width: 250px;
+    height: 140px;
+}
